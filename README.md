@@ -38,9 +38,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZyZzVteHV2cXV0Y3d6eGpteTdkY2Z4eTBjbHRuNjJ2dXZyc2E3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZyZzVteHV2cXV0Y3d6eGpteTdkY2Z4eTBjbHRuNjJ2dXZyc2E3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/4l0sh/4l0sh/output/snake.svg" alt="Snake animation" />
 
